@@ -1,0 +1,7 @@
+API blogpost
+-user_id
+-user_name
+-post-text
+-User_Fullname(?)
+-number of Follower(?)
+
